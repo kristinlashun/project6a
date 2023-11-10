@@ -1,6 +1,6 @@
 # Author: Kristin Towns
 # GitHub username: kristinlashun 
-# Date: November 16th 2023
+# Date: November 9th 2023
 # Description: This program defines a function 'find_median' that calculates the median of a list of numbers.
 
 def find_median(numbers):
